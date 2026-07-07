@@ -7,8 +7,7 @@ This is a beginner-friendly Python project that converts a simple Markdown file 
 The program reads a Markdown file (`sample.md`), converts headings, paragraphs, and bold text into HTML, and saves the result as `output.html`.
 
 ## Internship Details
-- Name : Simranjit Kaur
-- Intern ID : CITS3897
+- Name : Taniya
 - Organistation : CODTECH
 
 ## Features
